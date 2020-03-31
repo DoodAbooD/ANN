@@ -1,3 +1,6 @@
+//Code by: Abdelqader Okasha
+//for direct contact: abd.okasha@gmail.com
+
 #include "neuron.h"
 #include "synapse.h"
 #include "nn.h"
